@@ -1,2 +1,4 @@
 # Embedded_Systems
-Info about embedded systems
+Books about embedded systems
+
+1. Белов А. Микроконтроллеры AVR
