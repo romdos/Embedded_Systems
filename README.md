@@ -1,4 +1,6 @@
 # Embedded_Systems
 Books about embedded systems
 
-1. Белов А. Микроконтроллеры AVR
+## JTAG
+
+This is an interface of communication between two ICs.
